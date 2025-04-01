@@ -10,6 +10,10 @@
     border-bottom: 1px solid #ddd;
 }
 
+.navbar-brand{
+     font-family: "Judson", serif;
+}
+
 /* On hover */
 .navbar a:hover {
     color: #6a6aff;
