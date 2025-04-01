@@ -25,7 +25,9 @@
 }
 
 .social-links{
+     background-color: #22222B;
 }
+
 
 @media (max-width: 576px) {
     .contact-info {
