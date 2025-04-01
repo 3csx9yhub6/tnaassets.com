@@ -5,7 +5,7 @@
     transition: color 0.3s ease;
 }
 .brand-title{
-      font-family: "Judson", serif;
+      font-family: "Judson", serif !important;
 }
 .navbar {
     border-top: 1px solid #ddd;
