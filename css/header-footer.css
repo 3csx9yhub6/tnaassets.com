@@ -4,7 +4,9 @@
     font-weight: 500;
     transition: color 0.3s ease;
 }
-
+.brand-title{
+      font-family: "Judson", serif;
+}
 .navbar {
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
