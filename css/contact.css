@@ -24,6 +24,9 @@
     border-radius: 8px;
 }
 
+.social-links{
+}
+
 @media (max-width: 576px) {
     .contact-info {
         padding: 1.5rem 1rem;
