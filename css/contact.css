@@ -24,14 +24,23 @@
     border-radius: 8px;
 }
 
-.social-links a{
+.social-links a {
     color: #22222B;
     text-decoration: none;
 }
 
+.social-links a:hover {
+    color: #6a6aff;
+    text-decoration: none;
+}
 
 @media (max-width: 576px) {
     .contact-info {
         padding: 1.5rem 1rem;
     }
+}
+
+.spoonflower-logo img {
+    height: 20px;
+    width: auto;
 }
