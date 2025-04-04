@@ -4,9 +4,11 @@
     font-weight: 500;
     transition: color 0.3s ease;
 }
-.navbar-brand{
-      font-family: "Judson", serif !important;
+
+.navbar-brand {
+    font-family: "Judson", serif !important;
 }
+
 .navbar {
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
@@ -36,4 +38,16 @@ footer a {
 
 footer a:hover {
     color: #6a6aff;
+}
+
+footer .text-center a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+footer .spoonflower-logo img {
+    height: 20px;
+    width: auto;
 }
